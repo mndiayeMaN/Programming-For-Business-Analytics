@@ -1,0 +1,8 @@
+=== SALES SUMMARY REPORT ===
+Generated on: 2025-12-10 17:18:41.265904
+
+Total revenue: $4,651.39
+Total orders: 100
+Total customers: 30
+Average order value: $46.51
+Best-selling category: Electronics (Total quantity sold: 94)
